@@ -1,9 +1,20 @@
-.nav {
- font-size: 25px;
- font-family: cursive;
- content: white;
- /*background: blue;*/
+body {
+ 
+background: #337ab7;
+
 }
+
+
+.nav {
+ font-size: 20px;
+ font-style: italic;
+ /*border-style: dot-dash;*/
+}
+
+.container-fluid {
+	color: blue;
+}
+
 
 .logo {
 	width: 100px;
